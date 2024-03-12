@@ -14,7 +14,7 @@ Last Updated: 1/1/2023
 
 
 -- ----------------------------------------------------------------------------
--- Step #2: Create the account level objects
+-- Step #2: Create the account level objects --> we don't run this but if we are SYSADMIN, then I'd look into this
 -- ----------------------------------------------------------------------------
 USE ROLE ACCOUNTADMIN;
 
